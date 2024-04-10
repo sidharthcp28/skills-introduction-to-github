@@ -1,1 +1,2 @@
 Welcome to my GitHub profile!
+"Hi there, I'm Sidharth C P, a final year diploma student in computer engineering at MPTC Vadakara, Calicut, hailing from Thalassery. With a fervent passion for innovation and a robust proficiency in technology, I'm eager to apply my skills and knowledge to drive impactful change within a vibrant tech company. My unwavering commitment to continuous learning and hands-on experience positions me as a dynamic asset to any forward-thinking team."
